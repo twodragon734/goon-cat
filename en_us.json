@@ -1,5 +1,15 @@
 {
-  "entity.battlecats.battle_cat": "Battle Cat",
-  "item.battlecats.cat_food": "Cat Food",
-  "item.battlecats.battle_cat_spawn_egg": "Battle Cat Spawn Egg"
+  "itemGroup.battlecats": "Battle Cats",
+  "entity.battlecats.cat_unit": "Battle Cat",
+  "entity.battlecats.enemy_unit": "Enemy",
+  "entity.battlecats.doge": "Doge",
+  "entity.minecraft.villager.battlecats.gacha_master": "Gacha Master",
+  "item.battlecats.basic_cat_card": "Basic Cat Card ($50)",
+  "item.battlecats.tank_cat_card": "Tank Cat Card ($100)",
+  "item.battlecats.axe_cat_card": "Axe Cat Card ($150)",
+  "item.battlecats.archer_cat_card": "Archer Cat Card ($200)",
+  "item.battlecats.titan_cat_card": "Titan Cat Card ($400)",
+  "item.battlecats.gacha_capsule": "Gacha Capsule",
+  "item.battlecats.doge_spawn_egg": "Doge Spawn Egg",
+  "block.battlecats.gacha_machine": "Gacha Machine"
 }

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "battlecats:block/gacha_machine_top",
+    "bottom": "battlecats:block/gacha_machine_top",
+    "side": "battlecats:block/gacha_machine_side"
+  }
+}

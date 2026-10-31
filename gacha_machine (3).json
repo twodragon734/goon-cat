@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["III", "IEI", "III"],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "E": { "item": "minecraft:emerald" }
+  },
+  "result": { "id": "battlecats:gacha_machine", "count": 1 }
+}

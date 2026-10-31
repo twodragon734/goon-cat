@@ -3,7 +3,7 @@
   "id": "battlecats",
   "version": "${version}",
   "name": "Battle Cats",
-  "description": "Cats that fight for you.",
+  "description": "Lane battles, gacha cats and a Doge.",
   "authors": ["You"],
   "license": "MIT",
   "environment": "*",
@@ -11,6 +11,7 @@
     "main": ["com.example.battlecats.BattleCats"],
     "client": ["com.example.battlecats.BattleCatsClient"]
   },
+  "mixins": ["battlecats.mixins.json"],
   "depends": {
     "fabricloader": ">=0.16.0",
     "minecraft": "~1.21.1",
